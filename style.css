@@ -55,10 +55,18 @@ body {
 }
 
 .amount {
-    padding:
+    padding: 5%;
+    text-align: justify;
+    display: inline;
+    margin
 }
 
 .hr {
     width: 50%;
     text-align: center
+}
+
+.footer {
+    text-align: center;
+    justify-content: center;
 }
